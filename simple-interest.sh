@@ -6,7 +6,7 @@
 
 #Author: Upkar Lidder (IBM)
 #Additional Authors:
-#<cbturner24>
+#cbturner24
 
 # Input:
 # p, principal amount
